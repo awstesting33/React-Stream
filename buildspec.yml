@@ -19,6 +19,6 @@ artifacts:
     - public/**/*
     - src/**/*
     - package.json
-    - ebextensions/**/*
-#    - appspec.yml
-#    - scripts/**/*
+#    - ebextensions/**/*
+    - appspec.yml
+    - scripts/**/*
